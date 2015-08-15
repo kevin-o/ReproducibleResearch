@@ -1,5 +1,5 @@
 ---
-title: 'Assignment 1: Personal Activity Monitoring Device Data Analysis'
+title: 'Reproducible Research - Assignment 1: Personal Activity Monitoring Device Data Analysis'
 author: "Kevin O'Laughlin"
 date: "August 5, 2015"
 output: html_document
